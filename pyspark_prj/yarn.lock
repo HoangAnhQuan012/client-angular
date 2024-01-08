@@ -4706,9 +4706,9 @@ node-forge@^1:
   integrity sha512-dPEtOeMvF9VMcYV/1Wb8CPoVAXtp6MKMlcbAt4ddqmGqUJ6fQZFXkNZNkNlfevtNkGtaSoXf/vNNNSvgrdXwtA==
 
 node-gyp-build@^4.2.2:
-  version "4.7.1"
-  resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.7.1.tgz#cd7d2eb48e594874053150a9418ac85af83ca8f7"
-  integrity sha512-wTSrZ+8lsRRa3I3H8Xr65dLWSgCvY2l4AOnaeKdPA9TB/WYMPaTcrzf3rXvFoVvjKNVnu0CcWSx54qq9GKRUYg==
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.8.0.tgz#3fee9c1731df4581a3f9ead74664369ff00d26dd"
+  integrity sha512-u6fs2AEUljNho3EYTJNBfImO5QTo/J/1Etd+NVdCj7qWKUSN/bSLkZwhDv7I+w/MSC6qJ4cknepkAYykDdK8og==
 
 node-gyp@^9.0.0:
   version "9.4.1"
@@ -5201,10 +5201,15 @@ pretty-bytes@^5.3.0:
   resolved "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz"
   integrity sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg==
 
-primeng@^15.0.0:
-  version "15.0.0"
-  resolved "https://registry.npmjs.org/primeng/-/primeng-15.0.0.tgz"
-  integrity sha512-qt3Gxr2GJ7jiMja4LY8ieUUW/resUHVent3lUiB9INluBTdu5NNVqwdibLWFiFc9vRoMbTb5SU/5nlr6ZstpyA==
+primeicons@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.npmjs.org/primeicons/-/primeicons-6.0.1.tgz"
+  integrity sha512-KDeO94CbWI4pKsPnYpA1FPjo79EsY9I+M8ywoPBSf9XMXoe/0crjbUK7jcQEDHuc0ZMRIZsxH3TYLv4TUtHmAA==
+
+primeng@^17.3.1:
+  version "17.3.1"
+  resolved "https://registry.npmjs.org/primeng/-/primeng-17.3.1.tgz"
+  integrity sha512-sjz+nzbBF+IV7KsJ68QBv80BdXcQP2FLqy4zNoW2La5kbp4KI3MgSanmWwi8vVaCBtjmxQXsbjdi/Q6gED4lVg==
   dependencies:
     tslib "^2.3.0"
 
